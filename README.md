@@ -12,4 +12,4 @@ For more instructions type<br/>
 <code>python steg_brute.py -h</code>
 
 # Version
-Steg Brute Force Tool V1.0
+Steg Brute Force Tool V1.1
